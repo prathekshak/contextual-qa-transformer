@@ -1,4 +1,4 @@
-# 🧠 NeuroQA – Story Comprehension Bot
+# 🧠 Contextual QA Transformer – Story Comprehension Bot
 
 ## AI-Powered Contextual Question Answering (Full-Stack)
 
