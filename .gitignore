@@ -1,0 +1,15 @@
+
+*.h5
+*.bin
+*.pt
+*.pkl
+
+venv/
+env/
+__pycache__/
+.env
+
+node_modules/
+dist/
+.DS_Store
+transformer_model/tf_model.h5  
